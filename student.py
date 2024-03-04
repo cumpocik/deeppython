@@ -86,4 +86,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#Пример использования "python3 student.py "Иванов Иван" "subjects.csv" "Математика" "5,4,3" "80,90,60"
+#Пример использования (python3 student.py "Иванов Иван" "subjects.csv" "Математика" "5,4,3" "80,90,60")
